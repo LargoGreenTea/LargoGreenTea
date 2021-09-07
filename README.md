@@ -11,9 +11,8 @@ About myself
 -->
 </div>
 
-## Language
-* Japanese : Native
-* English : Not fluently
+## Country
+* Japan
 
 
 ## Activity

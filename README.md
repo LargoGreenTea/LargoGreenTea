@@ -14,9 +14,9 @@ About myself
 
 ## Activity
 <div align="left">
- <img alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=LargoGreenTea&show_icons=true&count_private=true&theme=dracula">
+ <img alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=LargoGreenTea&show_icons=true&count_private=true&theme=merko">
 </div>
- <img alt ="GitHub Top Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LargoGreenTea&layout=compact&hide=html&theme=dracula">
+ <img alt ="GitHub Top Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LargoGreenTea&layout=compact&hide=html&theme=merko">
 </div>
 
 </div>
@@ -31,3 +31,4 @@ About myself
     <img height="20" src="https://img.shields.io/github/followers/LargoGreenTea?label=follow&logo=github&style=flat" />
   
 ..Fatal Error.
+

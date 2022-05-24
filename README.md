@@ -2,8 +2,8 @@ About myself
 - 
 - Avatar: Using picture drawn by [ほし](https://www.pixiv.net/users/1198913) .
 - Country: Japan
-- I am not good at coding. I do not have enough time to do that..;(
-----
+- Discord: Tea#7565
+(I usually receive friend requests if you engage with me. However, I may not accept those from people I do not know very well. Please understand that. Thanks.)
 
 
 
